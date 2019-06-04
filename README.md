@@ -1,5 +1,7 @@
 # Earthquake Signal Processing (Shell/SAC)
 
+------------------
+
 These are a collection of Shell scripts that I wrote to process seismic data in SAC format. They works by automatically generating and running some sac macros, hence they can process big datasets faster than equivalents packages in Python or Matlab since sac is written in C. 
 
 These codes do:
